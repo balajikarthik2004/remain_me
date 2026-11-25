@@ -1,0 +1,37 @@
+{
+  "xp": 50,
+  "max_xp": 200,
+  "level": 1,
+  "active": true,
+  "pinned": false,
+  "pet_visible": true,
+  "pet_size": 110,
+  "theme": "Kawaii Pink",
+  "reminders": [
+    {
+      "text": "\ud83d\udca7 Drink a glass of water",
+      "done": false
+    },
+    {
+      "text": "\ud83e\uddd8 Stand up & stretch your shoulders",
+      "done": false
+    },
+    {
+      "text": "\ud83d\udc41 20-20-20 eye relief break",
+      "done": true
+    },
+    {
+      "text": "\u2615 Quick tea / coffee break",
+      "done": false
+    }
+  ],
+  "character": "Puppy",
+  "size_name": "Tiny",
+  "show_bubbles": true,
+  "x": 1052,
+  "y": 513,
+  "reminders_enabled": true,
+  "reminder_interval_mins": 15,
+  "gravity_enabled": true,
+  "sit_silently": true
+}
